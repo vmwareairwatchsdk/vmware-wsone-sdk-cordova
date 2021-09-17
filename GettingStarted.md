@@ -10,7 +10,7 @@ In order to inject Workspace ONE SDK functionality into your Apache Cordova App,
 
 ### Requirements
 * iOS 12.0+
-* Visual Studio Code and Xcode 12.1
+* Visual Studio Code and Xcode 12.3 or 12.4
 * Workspace ONE-enrolled iOS test device
 * VMware Workspace One SDK Plugin for Apache Cordova from npm.
 
